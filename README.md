@@ -12,23 +12,11 @@ A complete solution for modern online stores with responsive design, optimized p
 ## 🎥 Live Demo Preview  
 
 <p align="center">
-[  <video src="https://github.com/imtiaz-ahmed-hridoy/wp-ecom/blob/main/readmeImg/wpEcom.mp4?raw=true" width="90%" autoplay loop muted playsinline></video>](https://github.com/user-attachments/assets/9c97a9fe-dadb-4fe8-a826-9ea762d48934)
-</p>
 
----
 
-## 🖼️ Project Screenshots  
+https://github.com/user-attachments/assets/80b311da-22b5-4768-8b3a-ac588328e276
 
-<p align="center">
-  <img src="https://github.com/imtiaz-ahmed-hridoy/wp-ecom/blob/main/readmeImg/homepage.png?raw=true" width="90%" alt="Homepage">
-  <br><br>
-  <img src="https://github.com/imtiaz-ahmed-hridoy/wp-ecom/blob/main/readmeImg/product-page.png?raw=true" width="90%" alt="Product Page">
-  <br><br>
-  <img src="https://github.com/imtiaz-ahmed-hridoy/wp-ecom/blob/main/readmeImg/cart.png?raw=true" width="90%" alt="Cart Page">
-  <br><br>
-  <img src="https://github.com/imtiaz-ahmed-hridoy/wp-ecom/blob/main/readmeImg/dashboard.png?raw=true" width="90%" alt="Admin Dashboard">
-  <br><br>
-  <img src="https://github.com/imtiaz-ahmed-hridoy/wp-ecom/blob/main/readmeImg/mobile.png?raw=true" width="50%" alt="Mobile View">
+
 </p>
 
 ---
