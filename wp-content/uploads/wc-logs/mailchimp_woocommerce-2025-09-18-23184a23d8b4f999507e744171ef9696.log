@@ -1,0 +1,150 @@
+2025-09-18T09:25:13+00:00 NOTICE handleOrderUpdate :: order_status
+2025-09-18T09:25:13+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 924 with id 711
+2025-09-18T09:25:26+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id e00614b739f0e57de8f50d333472a89c with id 712
+2025-09-18T09:25:26+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id e00614b739f0e57de8f50d333472a89c with id 713
+2025-09-18T09:25:26+00:00 NOTICE handleOrderUpdate :: order_status
+2025-09-18T09:25:26+00:00 NOTICE handleOrderUpdate :: order_status
+2025-09-18T09:25:26+00:00 NOTICE handleOrderUpdate :: order_status
+2025-09-18T09:25:26+00:00 NOTICE handleOrderUpdate :: order_status
+2025-09-18T09:25:29+00:00 NOTICE handleOrderUpdate :: order_status
+2025-09-18T09:25:29+00:00 NOTICE handleOrderUpdate :: order_status
+2025-09-18T09:25:29+00:00 NOTICE handleOrderUpdate :: order_status
+2025-09-18T09:25:29+00:00 NOTICE handleOrderUpdate :: order_status
+2025-09-18T09:25:32+00:00 NOTICE handleOrderUpdate :: order_status
+2025-09-18T09:25:32+00:00 NOTICE handleOrderUpdate :: order_status
+2025-09-18T09:25:32+00:00 NOTICE handleOrderUpdate :: order_status
+2025-09-18T09:25:32+00:00 NOTICE handleOrderUpdate :: order_status
+2025-09-18T09:25:33+00:00 ERROR abandoned_cart.error :: email: muvahigibe@mailinator.com :: attempting product update :: Email [muvahigibe@mailinator.com] has been blocked due to spam reports.
+2025-09-18T09:25:34+00:00 ERROR abandoned_cart.error :: Error Code 0 :: Email [muvahigibe@mailinator.com] has been blocked due to spam reports. on 2330 in /home/imtiaz/sites/wp-ecom/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2025-09-18T09:25:37+00:00 NOTICE handleOrderUpdate :: order_status
+2025-09-18T09:25:37+00:00 NOTICE handleOrderUpdate :: order_status
+2025-09-18T09:25:37+00:00 NOTICE handleOrderUpdate :: order_status
+2025-09-18T09:25:37+00:00 NOTICE handleOrderUpdate :: order_status
+2025-09-18T09:25:39+00:00 ERROR abandoned_cart.error :: email: muvahigibe@mailinator.com :: attempting product update :: Email [muvahigibe@mailinator.com] has been blocked due to spam reports.
+2025-09-18T09:25:40+00:00 ERROR abandoned_cart.error :: Error Code 0 :: Email [muvahigibe@mailinator.com] has been blocked due to spam reports. on 2330 in /home/imtiaz/sites/wp-ecom/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2025-09-18T09:25:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id e00614b739f0e57de8f50d333472a89c with id 717
+2025-09-18T09:25:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id e00614b739f0e57de8f50d333472a89c with id 718
+2025-09-18T09:25:53+00:00 NOTICE debug :: Order ID 924 was checkout-draft and is now pending :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+2025-09-18T09:25:53+00:00 NOTICE handleOrderUpdate :: order_status
+2025-09-18T09:25:53+00:00 NOTICE debug :: Order ID 924 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [landing_site] => 
+        )
+
+)
+2025-09-18T10:03:00+00:00 ERROR abandoned_cart.error :: email: muvahigibe@mailinator.com :: attempting product update :: Email [muvahigibe@mailinator.com] has been blocked due to spam reports.
+2025-09-18T10:03:02+00:00 ERROR abandoned_cart.error :: Error Code 0 :: Email [muvahigibe@mailinator.com] has been blocked due to spam reports. on 2330 in /home/imtiaz/sites/wp-ecom/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2025-09-18T10:03:38+00:00 ERROR abandoned_cart.error :: email: muvahigibe@mailinator.com :: attempting product update :: Email [muvahigibe@mailinator.com] has been blocked due to spam reports.
+2025-09-18T10:03:40+00:00 ERROR abandoned_cart.error :: Error Code 0 :: Email [muvahigibe@mailinator.com] has been blocked due to spam reports. on 2330 in /home/imtiaz/sites/wp-ecom/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2025-09-18T10:03:43+00:00 ERROR order_submit.error :: addStoreOrder :: #924 :: Error Code 0 :: Email [muvahigibe@mailinator.com] has been blocked due to spam reports. on 2330 in /home/imtiaz/sites/wp-ecom/wp-content/plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php
+2025-09-18T10:08:08+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 68b5e0cbf1261
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => e72bb045e5
+            [name] => Cartzy
+            [domain] => http://wp-ecom.test
+            [email_address] => Cartzy@gmail.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [address] => Array
+                (
+                    [province] => BD-13
+                    [country] => BD
+                    [country_code] => BD
+                    [company] => Cartzy
+                )
+
+        )
+
+)
+2025-09-18T10:08:27+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 68b5e0cbf1261
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => e72bb045e5
+            [name] => Cartzy
+            [domain] => http://wp-ecom.test
+            [email_address] => Cartzy@gmail.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [address] => Array
+                (
+                    [province] => BD-13
+                    [country] => BD
+                    [country_code] => US
+                    [company] => Cartzy
+                )
+
+        )
+
+)
+2025-09-18T10:10:02+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 68b5e0cbf1261
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => e72bb045e5
+            [name] => Cartzy
+            [domain] => http://wp-ecom.test
+            [email_address] => Cartzy@gmail.com
+            [currency_code] => BDT
+            [money_format] => ৳ 
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [address] => Array
+                (
+                    [province] => BD-13
+                    [country] => BD
+                    [country_code] => US
+                    [company] => Cartzy
+                )
+
+        )
+
+)
+2025-09-18T10:11:05+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 68b5e0cbf1261
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => e72bb045e5
+            [name] => Cartzy
+            [domain] => http://wp-ecom.test
+            [email_address] => Cartzy@gmail.com
+            [currency_code] => BDT
+            [money_format] => ৳ 
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [address] => Array
+                (
+                    [province] => BD-13
+                    [country] => BD
+                    [country_code] => BD
+                    [company] => Cartzy
+                )
+
+        )
+
+)
