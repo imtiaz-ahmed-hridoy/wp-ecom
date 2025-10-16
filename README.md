@@ -1,5 +1,81 @@
+# 🛍️ WordPress E-Commerce Website  
 
+<p align="center">
+  <img width="889" height="889" alt="thumnail_background" src="https://github.com/user-attachments/assets/6b79793e-6d14-4f0a-aa09-bab453eb342d" />
+</p>
 
-https://github.com/user-attachments/assets/9c97a9fe-dadb-4fe8-a826-9ea762d48934
+A next-gen **WordPress E-Commerce platform** built with **WooCommerce**, **Elementor**, and custom-coded enhancements for speed, usability, and scalability.  
+A complete solution for modern online stores with responsive design, optimized performance, and seamless shopping experience.
 
-<img width="889" height="889" alt="thumnail_background" src="https://github.com/user-attachments/assets/6b79793e-6d14-4f0a-aa09-bab453eb342d" />
+---
+
+## 🎥 Live Demo Preview  
+
+<p align="center">
+[  <video src="https://github.com/imtiaz-ahmed-hridoy/wp-ecom/blob/main/readmeImg/wpEcom.mp4?raw=true" width="90%" autoplay loop muted playsinline></video>](https://github.com/user-attachments/assets/9c97a9fe-dadb-4fe8-a826-9ea762d48934)
+</p>
+
+---
+
+## 🖼️ Project Screenshots  
+
+<p align="center">
+  <img src="https://github.com/imtiaz-ahmed-hridoy/wp-ecom/blob/main/readmeImg/homepage.png?raw=true" width="90%" alt="Homepage">
+  <br><br>
+  <img src="https://github.com/imtiaz-ahmed-hridoy/wp-ecom/blob/main/readmeImg/product-page.png?raw=true" width="90%" alt="Product Page">
+  <br><br>
+  <img src="https://github.com/imtiaz-ahmed-hridoy/wp-ecom/blob/main/readmeImg/cart.png?raw=true" width="90%" alt="Cart Page">
+  <br><br>
+  <img src="https://github.com/imtiaz-ahmed-hridoy/wp-ecom/blob/main/readmeImg/dashboard.png?raw=true" width="90%" alt="Admin Dashboard">
+  <br><br>
+  <img src="https://github.com/imtiaz-ahmed-hridoy/wp-ecom/blob/main/readmeImg/mobile.png?raw=true" width="50%" alt="Mobile View">
+</p>
+
+---
+
+## 🚀 Project Overview  
+
+This project is a **feature-rich eCommerce solution** built to deliver high-conversion online retail experiences.  
+It integrates **WooCommerce** with **custom front-end components**, **optimized backend**, and **conversion-driven layouts**.
+
+**Key goals:**  
+- Deliver smooth checkout experiences  
+- Achieve high SEO & performance benchmarks  
+- Enable easy admin control & automation  
+
+---
+
+## 🧩 Key Features  
+
+- 🔗 **WooCommerce Integration:** Full cart, checkout, and order flow  
+- 🎨 **Custom Elementor Design:** No prebuilt themes — crafted layout  
+- ⚡ **AJAX Product Filtering & Search**  
+- 📱 **Fully Responsive UI**  
+- 💳 **Multi-Gateway Payments (Stripe, PayPal, Local)**  
+- 🔐 **User Authentication & Role-Based Access**  
+- 📦 **Inventory & Stock Alerts**  
+- 🧹 **Optimized with WP Rocket + Cloudflare CDN**  
+- 📈 **SEO-ready (Yoast Structured Data)**  
+- 🧰 **Admin Insights Dashboard**
+
+---
+
+## 🧠 Tech Stack  
+
+| Category | Technology |
+|-----------|-------------|
+| **CMS** | WordPress 6.x |
+| **E-Commerce** | WooCommerce |
+| **Frontend** | Elementor, HTML5, CSS3, JavaScript |
+| **Backend** | PHP 8.x |
+| **Database** | MySQL |
+| **Hosting** | cPanel / LiteSpeed Server |
+| **Performance & Security** | WP Rocket, Wordfence, Cloudflare |
+
+---
+
+## ⚙️ Installation  
+
+```bash
+git clone https://github.com/imtiaz-ahmed-hridoy/wp-ecom.git
+cd wp-ecom
